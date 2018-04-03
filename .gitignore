@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EFMultiContextTest/v15/Server/sqlite3
+/EFMultiContext.Common/bin/Debug
+/EFMultiContext.Common/obj/Debug
+/EFMultiContext.Plugin/bin/Debug
+/EFMultiContext.Plugin/obj/Debug
+/EFMultiContextTest/bin/Debug
+/EFMultiContextTest/obj/Debug
+/packages/EntityFramework.6.2.0
